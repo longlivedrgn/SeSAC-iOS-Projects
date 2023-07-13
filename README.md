@@ -1,6 +1,13 @@
 # 🌱 SeSAC-iOS-Projects
 - `2022.12` ~ `2023.06` 까지 총 8개 프로젝트를 진행했습니다. 아래는 해당 프로젝트들의 레포지토리를 모아둔 링크 및 간단한 설명입니다
 
+## 날씨 앱
+
+🗓 기간 : 2023/03/13 ~ 2023/04/14(4주)
+
+📝 설명 : OpenWeather API를 활용하여 오늘 날씨와 이후 5일 날씨를 알려주는 앱
+
+[프로젝트 링크](https://github.com/longlivedrgn/ios-weather-forecast)
 
 ## 박스 오피스 앱
 
@@ -9,14 +16,6 @@
 📝 설명 : 영화 진흥회 API를 활용하여 영화 순위를 알려주는 앱
 
 [프로젝트 링크](https://github.com/longlivedrgn/ios-box-office)
-
-## 날씨 앱
-
-🗓 기간 : 2023/03/13 ~ 2023/04/14(4주)
-
-📝 설명 : OpenWeather API를 활용하여 오늘 날씨와 이후 5일 날씨를 알려주는 앱
-
-[프로젝트 링크](https://github.com/longlivedrgn/ios-weather-forecast)
 
 ## 은행 창구 앱
 
